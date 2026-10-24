@@ -6,7 +6,7 @@
 Разработан интерактивный кликабельный прототип MVP-версии приложения «Stets Home». Прототип полностью эмулирует пользовательский опыт: все кнопки и переходы между экранами активны.
 
 **Ссылка на интерактивный прототип:** 
-[https://www.figma.com/link/to/your/prototype]([https://www.figma.com/link/to/your/prototype](https://www.figma.com/design/IIkj7RJlJnhNpykxxidkGb/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-Stets-Home?node-id=20701-579&t=pcqveqDkyyqUuBXZ-1))
+[[https://www.figma.com/link/to/your/prototype](https://www.figma.com/design/IIkj7RJlJnhNpykxxidkGb/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-Stets-Home?node-id=20701-579&t=pcqveqDkyyqUuBXZ-1)]([[https://www.figma.com/link/to/your/prototype](https://www.figma.com/design/IIkj7RJlJnhNpykxxidkGb/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-Stets-Home?node-id=20701-579&t=pcqveqDkyyqUuBXZ-1)])
 
 ## Реализованные сценарии MVP
 
